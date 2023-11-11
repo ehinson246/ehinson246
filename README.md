@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ehinson246 (or just ethan)
-- 👀 I’m interested in AI and robotics
+- 👀 I’m interested in AI, mathematics, physics, and robotics
 - 🌱 I’m currently learning data structures in Python
 
 <!---
