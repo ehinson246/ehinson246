@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ehinson246 (or just ethan)
 - 👀 I’m interested in AI, mathematics, physics, and robotics
-- 🌱 I’m currently learning data structures in Python
+- 🌱 I’m currently learning Python
 
 <!---
 ehinson246/ehinson246 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
